@@ -1,0 +1,233 @@
+.fl-backg
+{
+	background-image:url('../img/banner.jpg');
+	background-size:100% 100%;
+}
+*{
+	margin:0;
+	padding:0;
+}
+body
+{
+	font-family: "Montserrat", sans-serif;
+}
+h1
+{
+	
+}
+input[type='search']
+{
+	border-radius:20px;
+	padding-left:40px;
+}
+.search-btn i
+{
+ position:absolute;
+left:13px;
+top:10px;
+z-index:999999; 
+}
+ .navbar-expand-lg .navbar-nav .nav-link,.navbar-expand-lg .navbar-nav .nav-link:hover
+ {
+
+     color:#ffffff;
+	  padding: 2px 19px;
+	  font-size:13px;
+	      font-weight: bold;
+	 
+ }
+  .navbar-light .navbar-nav .active>.nav-link
+  {
+	
+	   background-color: #000000;
+	    border-radius: 20px;
+		color:#ffffff;
+		opacity: 0.6;
+}
+.cntn-backg
+{
+	       background-color: rgb(232 163 23 / 73%);
+    padding: 10px;
+    margin-bottom: 43px;
+}
+ .cntn-backg > *
+ {
+	 color:#ffffff;
+ }
+ .bner-ttle
+ {
+	 font-size:90px;
+ }
+  .bner-subttle
+  {
+	  position:relative;
+	  color:#ffffff;
+  }
+   .bner-subttle:before
+   {
+	   content:"";
+	   position:absolute;
+	   width:20px;
+	   height:2px;
+	   background-color:#ffffff;
+	   top:5px;
+   }
+    .bnr-subcntnt
+	{
+		color:#ffffff;
+	}
+	 .mre-lrn
+	 {
+		 display: inline-block;
+    padding: 5px 20px;
+    border-radius: 20px;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    font-weight: bold;
+}
+ .bckg-img
+ {
+	       position: absolute;
+    bottom: -87px;
+    z-index: -1;
+    background-image: url(../img/backg.jpg);
+    width: 100%;
+    height: 100px;
+ }
+  .sn-uimg
+  {
+	  position:absolute;
+	  top:0px;
+	  
+  }
+   .sun-sbimg
+   {
+	      height: 197px;
+   }
+    .sn-uimg img
+	{
+		width:395px;
+	}
+	 .backg-himg
+	 {
+	  background-image: url(../img/secgrp-2.png);
+    height: 573px;
+    padding: 89px 0px; 
+	 }
+	  .backg-subcntnt
+	  {
+		     background-image: url(../img/backgt.png);
+    height: 300px;
+   
+    background-repeat: no-repeat;
+    width: 830px;
+}
+ .backg-subcntnt p
+ {
+	     padding: 70px 128px;
+    color: #ffffff;
+ }
+  .backg-jimage
+  {
+	     background-image: url(../img/backgr.png);
+    background-size: cover;
+    height: 1000px;
+    width: 100%;
+}
+.mre-qlrn
+{
+	border:1px solid #333333;
+	padding:10px 20px;
+	color:#333333;
+	border-radius:20px; 
+}
+.txt-sbttle
+{
+	    border-bottom: 1px solid rgb(51 51 51 / 44%);
+}
+ .hke-rute
+ {
+	 background-image:url('../img/rute-backg.png');
+	 background-size:cover;
+	 width:100%;
+	 height:991px;
+ }
+  .brder-cnnt
+  {
+	border: 3px solid #ffad47;
+    height: 547px;	  
+  }
+   .srch-inpt
+   {
+	  border-radius: 20px;
+    background-color: #ffad47;
+    border: 1px solid #ffad47;
+    width: 314px;
+    padding-left: 39px;
+   }
+    .srch-uicon
+	{
+		position: absolute;
+    top: 9px;
+    left: 13px;
+    color: #ffffff;
+		
+	}
+	
+	 .rute
+	 {
+		       position: absolute;
+    top: 0px;
+    color: #333333;
+    font-weight: bold;
+    padding: 5px 10px;
+    background-color: #ffad47;
+    left: 0px;
+    right: 0px;
+    width: 100px;
+    margin: 0 auto;
+        		 
+	 }
+	  .rute-ofer
+	  {
+		  background-color:#dc143c;
+          color:#ffffff;
+        position:absolute;
+        bottom:0px;
+      padding: 5px 10px;
+       font-weight:bold;
+    left: 0px;
+    right: 0px;
+    width: 100px;
+    margin: 0 auto;	   
+	  }
+	   .rute-img img 
+	   {
+		   border: 3px solid #ffffff;
+    border-radius: 46px;
+    padding: 2px 0px;
+	   }
+	   .rute-hkng
+	   {
+		    background: url(../img/hkng.png) no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: 0px -216px;   
+	   }
+	    .cust-uvdeo
+		{
+			    background: url(../img/backg.png);
+    width: 100%;
+    height: 634px;
+    background-size: 100% 100%;
+}
+		 .mre-vdeo
+		 {
+			 background-color:#ffad47;
+			 padding:8px 15px;
+			 color:#333333;
+		 }
+		  .glery-img
+		  {
+		   background-image:url('../img/');	  
+		  }
